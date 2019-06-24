@@ -1,0 +1,21 @@
+(First Name): ALEX --> GENNY
+
+(Last Name): FOX --> FOXY
+
+(Gender): male --> female
+
+(E-mail): alexfong100@gmail.com --> alexfong100@gmail.com
+
+(Phone No.):0198567592 --> 1122
+
+(Age):22 --> 20
+
+(Address):LOT 1171, JALAN TIONG HUA --> NAMHUA ROAD, LORONG 22
+
+(Nationality): MALAYSIA --> BRUNEI
+
+(State): SARAWAK --> SRI JAYA
+
+(Postcode): 96400 --> 12009
+
+(Blood Group): A --> A

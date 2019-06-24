@@ -1,0 +1,92 @@
+<html>
+<head>
+	<title>Glossary Organ Donation: Registration</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/title.css" />
+	<link rel="stylesheet" type="text/css" href="css/topdirectory.css" />
+	<link rel="stylesheet" type="text/css" href="css/reg.css" />
+	
+</head>
+
+<body>
+	<div>
+		<h1 class="header1">Registration</h1>
+	</div>
+	
+	<div id="div1">
+		<section class="1">
+			<nav class="top">
+				<ul class="topdirectory">
+					<li><a href="home.php">Home</a></li>
+					<li><a href="report.php">Report and Data</a></li>
+					<li><a href="ContactUs.html">Contact Us</a></li>
+					<li><a class="active1" href="registration.html">Register/Login</a></li>
+
+				</ul>
+			</nav>
+		</section>
+	</div>
+	
+	<div>
+		<h1 id="regTitle">Registration Form</h1>
+	</div>
+	
+	<div id="form">
+		<form id="registrations" action="register_action.php" method="post"> <!-- php file to save data -->
+
+			Identification Card (IC):<br>
+			<input type="number" name="ic" id="ic"><br><br>
+
+			First Name:<br>
+			<input type="text" 	name="f_name" id="button"><br><br>
+
+			Last Name:<br>
+			<input type="text" 	name="l_name" id="button"><br><br>
+
+			Gender:<br>
+			<input type="radio" name="gender" id="rad" value="male" checked>Male<br>
+			<input type="radio" name="gender" id="rad" value="female">Female<br><br>
+			
+			Username:<br>
+			<input type="text" 	name="username" id="button"><br><br>			
+			
+			User password:<br>
+			<input type="password" name="psw" id="button"><br><br><br><br>
+
+			E-mail:
+			<input type="email" name="email" id="button"><br><br>
+
+			Phone No.:
+			<input type="text" name="phone" id="button"><br><br>
+			
+			Age:
+			<input type="number" name="age" id="button"><br><br>
+
+			Address:
+			<input type="text" name="address" id="button"><br><br>
+
+			Nationality:
+			<input type="text" name="nationality" id="button"><br><br>
+
+			State:
+			<input type="text" name="state" id="button"><br><br>
+
+			Postcode:
+			<input type="text" name="postcode" id="button"><br><br>
+
+			Blood group:
+			<input type="text" name="blood" id="button"><br><br>
+
+			<input type="submit" value="Submit" id="register" name="register">
+			<input type="reset" id="reset">
+
+			<p>
+			Already a member? <a href="login.php">Sign in</a>
+		</p>
+		</form> 
+			
+	</div>
+	
+</body>
+
+</html>

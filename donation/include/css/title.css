@@ -1,0 +1,21 @@
+body
+{
+	background-image: url("C:/Users/Devaraj/Desktop/Organ/img/background.jpg");
+}
+
+#div1
+{
+	border-style: solid;
+	border-width: medium;
+	border-width: 1px;
+	border-color: #1ca7c6;
+}
+
+.header1
+{
+	text-align: left;
+	font-style: oblique;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+	font-variant: small-caps;
+}

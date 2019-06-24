@@ -1,0 +1,23 @@
+(First Name): ALEX
+
+(Last Name): FOX
+
+(Gender): male
+
+(E-mail): alexfong100@gmail.com
+
+(Phone No.):0198567592
+
+(Age):22
+
+(Address):LOT 1171, JALAN TIONG HUA
+
+(Nationality): MALAYSIA
+
+(State): SARAWAK
+
+(Postcode): 96400
+
+(Blood Group): A
+
+(Organ):Kidney
